@@ -17,15 +17,11 @@
 </tr>
 </table>
 
-[![Anurag's github stats]()](https://github.com/summerscar)
-
-[![Top Langs]()](https://github.com/summerscar)
-
 <div>
 <a href="https://github.com/summerscar">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=summerscar&count_private=true&show_icons=true" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=summerscar&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/summerscar">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=summerscar&layout=compact" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=summerscar&layout=compact" />
 </a>
 </div>
