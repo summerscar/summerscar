@@ -1,5 +1,10 @@
   <!-- waka-box start -->
- <!-- waka-box end -->
+📊 每周工作报告
+```text
+Still Gathering Statistics...
+```
+<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
+<!-- waka-box end -->
 
  <!-- steam-box start -->
 🎮 Steam playtime leaderboard
