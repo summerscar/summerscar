@@ -17,6 +17,15 @@
 </tr>
 </table>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=summerscar&count_private=true&show_icons=true)](https://github.com/summerscar)
+[![Anurag's github stats]()](https://github.com/summerscar)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=summerscar)](https://github.com/summerscar)
+[![Top Langs]()](https://github.com/summerscar)
+
+<div>
+<a href="https://github.com/summerscar">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=summerscar&count_private=true&show_icons=true&hide=issues" />
+</a>
+<a href="https://github.com/summerscar">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=summerscar&layout=compact" />
+</a>
+</div>
