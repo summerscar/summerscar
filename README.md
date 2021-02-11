@@ -9,7 +9,7 @@
 <!-- waka-box start -->
 📊 每周工作报告
 ```text
-TypeScript 🕓 2 hrs █████████████████████100.0%
+TypeScript 🕓 32 mins █████████████████████100.0%
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
