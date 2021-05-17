@@ -23,13 +23,14 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v2
-
+        
       - uses: actions/checkout@v2
         with:
           repository: summerscar/coros-box
           token: ${{ secrets.ACCESS_TOKEN }}
           path: coros-box
-      
+          ref: foreign
+          
       - run: |
           cd coros-box
           yarn
