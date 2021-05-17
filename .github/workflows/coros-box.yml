@@ -17,8 +17,9 @@ jobs:
     name: Update-coros-data
     runs-on: ubuntu-latest
     env:
-      COOKIE: ${{ secrets.COROS_COOKIE }}
-
+      EMAIL: ${{ secrets.COROS_EMAIL }}
+      PASSWORD: ${{ secrets.COROS_PASSWORD }}
+      
     steps:
       - name: Check out repo
         uses: actions/checkout@v2
