@@ -1,0 +1,42 @@
+
+name: Update steam playtime
+
+on:
+  workflow_dispatch:
+    inputs:
+      description:
+        description: 'Manual triggers'
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+#   schedule:
+#     - cron: "10 * * * *"
+
+jobs:
+  build:
+    name: Update-steam-playtime
+    runs-on: ubuntu-latest
+    env:
+      COOKIE: ${{ secrets.COROS_COOKIE }}
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+
+      - uses: actions/checkout@v2
+        with:
+          repository: summerscar/coros-box
+          token: ${{ secrets.ACCESS_TOKEN }}
+          path: coros-box
+      
+      - run: |
+          cd coros-box
+          yarn
+          yarn start
+          cd ../
+          rm -rf ./coros-box
+      
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: :memo: update profile
