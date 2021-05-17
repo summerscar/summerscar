@@ -14,7 +14,7 @@ on:
 
 jobs:
   build:
-    name: Update-steam-playtime
+    name: Update-coros-data
     runs-on: ubuntu-latest
     env:
       COOKIE: ${{ secrets.COROS_COOKIE }}
