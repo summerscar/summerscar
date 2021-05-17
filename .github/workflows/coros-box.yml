@@ -1,5 +1,4 @@
-
-name: Update steam playtime
+name: Update coros data
 
 on:
   workflow_dispatch:
