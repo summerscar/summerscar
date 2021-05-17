@@ -35,6 +35,15 @@ EJS        🕓 52 mins       █░░░░░░░░░░░░░░░�
 
 </td>
 </tr>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<!-- coros-box start -->
+<!-- coros-box end -->
+
+</td>
+</tr>
 </table>
 
 <div>
