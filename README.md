@@ -36,7 +36,7 @@ EJS        🕓 52 mins       █░░░░░░░░░░░░░░░�
 </td>
 </tr>
 </tr>
-<tr style="background-color: white;">
+<tr>
 <td valign="top" width="50%">
 
 <!-- coros-box start -->
