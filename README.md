@@ -42,11 +42,9 @@ Other      🕓 34 mins        ▌░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏊‍Pool Swim   1km         🕘 3'2''/100m       in 3 days 
-🏊‍Pool Swim   1km         🕘 3'0''/100m       in 5 days 
-🏃‍Run         2.03km      🕘 5'24''/km        in 6 days 
-🏊‍Pool Swim   0.15km      🕘 3'43''/100m      in 7 days 
-🏊‍Pool Swim   0.1km       🕘 5'15''/100m      in 7 days 
+🏊‍Pool Swim   1km         🕘 3'2''/100m       in 4 days 
+🏊‍Pool Swim   1km         🕘 3'0''/100m       in 6 days 
+🏃‍Run         2.03km      🕘 5'24''/km        in 7 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
