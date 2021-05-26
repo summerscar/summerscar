@@ -42,7 +42,7 @@ JSON       🕓 1 hr 45 mins  █▍░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏊‍Pool Swim   1km         🕘 3'6''/100m       in 14 hours 
+🏊‍Pool Swim   1km         🕘 3'6''/100m       in 15 hours 
 🏊‍Pool Swim   1km         🕘 2'57''/100m      in 3 days 
 🏊‍Pool Swim   1km         🕘 3'2''/100m       in 7 days 
 🏊‍Pool Swim   1km         🕘 3'0''/100m       in 9 days 
