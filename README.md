@@ -42,8 +42,8 @@ JSON       🕓 25 mins       ▍░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏊‍Pool Swim   1km         🕘 3'6''/100m       in 7 days 
-🏊‍Pool Swim   1km         🕘 2'57''/100m      in 9 days 
+🏊‍Pool Swim   1km         🕘 3'6''/100m       in 8 days 
+🏊‍Pool Swim   1km         🕘 2'57''/100m      in 10 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
