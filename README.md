@@ -42,7 +42,7 @@ JSON       🕓 2 mins        ░░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏊‍Open Water  1.89km      🕘 3'20''/100m      in 14 hours 
+🏊‍Open Water  1.89km      🕘 3'20''/100m      in 15 hours 
 🏊‍Open Water  1.8km       🕘 2'57''/100m      in 4 days 
 🏊‍Open Water  2.27km      🕘 2'36''/100m      in 6 days 
 🏊‍Open Water  1.06km      🕘 2'23''/100m      in 7 days 
