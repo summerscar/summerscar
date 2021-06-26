@@ -42,7 +42,7 @@ TypeScript 🕓 54 mins        ▉░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏊‍Open Water  2.01km      🕘 3'5''/100m       in 13 hours 
+🏊‍Open Water  2.01km      🕘 3'5''/100m       in 15 hours 
 🏊‍Open Water  2.4km       🕘 2'30''/100m      in 3 days 
 🏊‍Open Water  2.52km      🕘 2'26''/100m      in 5 days 
 🏊‍Open Water  1.77km      🕘 3'32''/100m      in 7 days 
