@@ -42,7 +42,7 @@ Markdown   🕓 20 mins        ▎░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏊‍Open Water  2.17km      🕘 2'45''/100m      in 13 hours 
+🏊‍Open Water  2.17km      🕘 2'45''/100m      in 15 hours 
 🏊‍Open Water  2.11km      🕘 3'9''/100m       in 3 days 
 🏊‍Open Water  2.01km      🕘 3'5''/100m       in 6 days 
 🏊‍Open Water  2.4km       🕘 2'30''/100m      in 8 days 
