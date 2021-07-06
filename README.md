@@ -45,7 +45,6 @@ Other      🕓 42 mins        ▌░░░░░░░░░░░░░░░�
 🏊‍Open Water  1.68km      🕘 3'37''/100m      in 3 days 
 🏊‍Open Water  2.17km      🕘 2'45''/100m      in 5 days 
 🏊‍Open Water  2.11km      🕘 3'9''/100m       in 7 days 
-🏊‍Open Water  2.01km      🕘 3'5''/100m       in 10 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
