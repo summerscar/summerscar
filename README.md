@@ -42,7 +42,7 @@ JSON       🕓 1 hr 36 mins  █▏░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏊‍Open Water  1.44km      🕘 3'10''/100m      in 13 hours 
+🏊‍Open Water  1.44km      🕘 3'10''/100m      in 15 hours 
 🏊‍Open Water  1.75km      🕘 3'32''/100m      in 3 days 
 🏊‍Pool Swim   1.6km       🕘 3'26''/100m      in 5 days 
 🏊‍Open Water  1.94km      🕘 3'19''/100m      in 7 days 
