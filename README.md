@@ -42,7 +42,7 @@ CSS        🕓 2 mins        ▏░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏊‍Open Water  1.58km      🕘 4'32''/100m      in 13 hours 
+🏊‍Open Water  1.58km      🕘 4'32''/100m      in 15 hours 
 🏊‍Open Water  1.44km      🕘 3'10''/100m      in 7 days 
 🏊‍Open Water  1.75km      🕘 3'32''/100m      in 9 days 
 ```
