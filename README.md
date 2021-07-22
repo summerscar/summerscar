@@ -42,8 +42,7 @@ TypeScript 🕓 25 mins       ▊░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏊‍Open Water  1.58km      🕘 4'32''/100m      in 4 days 
-🏊‍Open Water  1.44km      🕘 3'10''/100m      in 10 days 
+🏊‍Open Water  1.58km      🕘 4'32''/100m      in 5 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
