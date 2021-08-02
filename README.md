@@ -42,8 +42,8 @@ JSON       🕓 8 mins        ▎░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏊‍Open Water  1.48km      🕘 3'34''/100m      in 6 days 
-🏊‍Open Water  1.52km      🕘 4'15''/100m      in 10 days 
+🏊‍Open Water  1.75km      🕘 3'29''/100m      in 13 hours 
+🏊‍Open Water  1.48km      🕘 3'34''/100m      in 7 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
