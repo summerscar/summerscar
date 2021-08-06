@@ -42,8 +42,8 @@ YAML       🕓 2 mins  ▊░░░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏊‍Open Water  0.01km      🕘 14'40''/100m     in 13 hours 
-🏊‍Pool Swim   1.4km       🕘 2'15''/100m      in 13 hours 
+🏊‍Open Water  0.01km      🕘 14'40''/100m     in 16 hours 
+🏊‍Pool Swim   1.4km       🕘 2'15''/100m      in 16 hours 
 🏊‍Open Water  1.75km      🕘 3'29''/100m      in 5 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
