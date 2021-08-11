@@ -9,8 +9,7 @@
 <!-- waka-box start -->
 📊 每周工作报告
 ```text
-YAML  🕓 0 secs █████████████▉░░░░░░░ 66.5%
-Other 🕓 0 secs ███████░░░░░░░░░░░░░░ 33.5%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
