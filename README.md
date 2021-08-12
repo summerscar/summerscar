@@ -9,7 +9,8 @@
 <!-- waka-box start -->
 📊 每周工作报告
 ```text
-Still Gathering Statistics...
+Markdown 🕓 1 hr 18 mins ████████████████████▌ 97.9%
+Other    🕓 1 min        ▍░░░░░░░░░░░░░░░░░░░░  2.1%
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
