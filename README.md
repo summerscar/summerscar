@@ -39,7 +39,7 @@ Other    🕓 1 min        ▍░░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏊‍Open Water  1.8km       🕘 3'39''/100m      in 14 hours 
+🏊‍Open Water  1.8km       🕘 3'39''/100m      in 15 hours 
 🏊‍Open Water  2.06km      🕘 2'35''/100m      in 6 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
