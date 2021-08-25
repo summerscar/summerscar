@@ -38,9 +38,9 @@ Still Gathering Statistics...
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏃‍Run         3.2km       🕘 5'50''/km        in 2 days 
-🏊‍Open Water  1.6km       🕘 3'4''/100m       in 5 days 
-🏊‍Open Water  1.8km       🕘 3'39''/100m      in 9 days 
+🏃‍Run         3.2km       🕘 5'50''/km        in 3 days 
+🏊‍Open Water  1.6km       🕘 3'4''/100m       in 6 days 
+🏊‍Open Water  1.8km       🕘 3'39''/100m      in 10 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
