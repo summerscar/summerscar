@@ -42,6 +42,7 @@ JSON       🕓 0 secs       ░░░░░░░░░░░░░░░░░
 <!-- coros-box start -->
 🏃最近运动
 ```text
+🏃Run          3.51km      🕘 5'48''/km        in 15 hours 
 🚴Bike         9.61km      🕘 9.86km/h         in 3 days 
 🏃Run          3.56km      🕘 5'30''/km        in 4 days 
 🏃Run          3.5km       🕘 5'28''/km        in 7 days 
