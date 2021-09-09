@@ -38,7 +38,7 @@ Still Gathering Statistics...
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏃Run          2.92km      🕘 7'4''/km         in 13 hours 
+🏃Run          2.92km      🕘 7'4''/km         in 15 hours 
 🏃Run          3.51km      🕘 5'48''/km        in 8 days 
 🚴Bike         9.61km      🕘 9.86km/h         in 10 days 
 ```
