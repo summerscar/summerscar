@@ -38,9 +38,9 @@ Still Gathering Statistics...
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🚴Bike         7.36km      🕘 11.75km/h        in 2 days 
-🚴Bike         16.1km      🕘 9.74km/h         in 2 days 
-🏃Run          2.92km      🕘 7'4''/km         in 8 days 
+🚴Bike         7.36km      🕘 11.75km/h        in 3 days 
+🚴Bike         16.1km      🕘 9.74km/h         in 3 days 
+🏃Run          2.92km      🕘 7'4''/km         in 9 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
