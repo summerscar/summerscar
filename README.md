@@ -38,8 +38,8 @@ Markdown 🕓 15 mins ███████████████████�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🚴Bike         7.36km      🕘 11.75km/h        in 5 days 
-🚴Bike         16.1km      🕘 9.74km/h         in 5 days 
+🚴Bike         7.36km      🕘 11.75km/h        in 6 days 
+🚴Bike         16.1km      🕘 9.74km/h         in 6 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
