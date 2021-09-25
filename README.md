@@ -9,7 +9,7 @@
 <!-- waka-box start -->
 📊 每周工作报告
 ```text
-Markdown 🕓 0 secs █████████████████████100.0%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
