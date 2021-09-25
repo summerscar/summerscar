@@ -38,8 +38,7 @@ Markdown 🕓 0 secs ███████████████████�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🚴Bike         7.36km      🕘 11.75km/h        in 10 days 
-🚴Bike         16.1km      🕘 9.74km/h         in 10 days 
+这个人有点懒~
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
