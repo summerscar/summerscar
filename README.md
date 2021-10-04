@@ -38,7 +38,7 @@ JavaScript 🕓 0 secs ░░░░░░░░░░░░░░░░░░░
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏃Run          2.58km      🕘 5'46''/km        in 13 hours 
+🏃Run          2.58km      🕘 5'46''/km        in 15 hours 
 🏃Run          1.93km      🕘 5'48''/km        in 3 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
