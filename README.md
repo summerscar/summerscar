@@ -39,9 +39,9 @@ YAML  🕓 0 secs ░░░░░░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏃Run          3.77km      🕘 12'32''/km       in 2 days 
-🏃Run          2.58km      🕘 5'46''/km        in 4 days 
-🏃Run          1.93km      🕘 5'48''/km        in 6 days 
+🏃Run          3.77km      🕘 12'32''/km       in 3 days 
+🏃Run          2.58km      🕘 5'46''/km        in 5 days 
+🏃Run          1.93km      🕘 5'48''/km        in 7 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
