@@ -42,7 +42,7 @@ Other      🕓 0 secs      ░░░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏃Run          3.77km      🕘 12'32''/km       in 9 days 
+🏃Run          3.77km      🕘 12'32''/km       in 10 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
