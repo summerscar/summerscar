@@ -42,7 +42,7 @@ HTML       🕓 1 min         ▏░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏃Run          3.77km      🕘 12'32''/km       in 10 days 
+这个人有点懒~
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
