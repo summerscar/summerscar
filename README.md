@@ -42,7 +42,7 @@ JSON       🕓 1 hr 24 mins   ▊░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-这个人有点懒~
+🏃Run          2.44km      🕘 6'23''/km        in 13 hours 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
