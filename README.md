@@ -42,7 +42,7 @@ TypeScript 🕓 1 hr 9 mins    ▋░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏃Run          2.44km      🕘 6'23''/km        in 3 days 
+🏃Run          2.44km      🕘 6'23''/km        in 4 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
