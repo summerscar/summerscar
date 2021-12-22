@@ -42,7 +42,7 @@ CSS        🕓 27 mins        ▎░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏃Run          3.47km      🕘 6'36''/km        in 3 days 
+🏃Run          3.47km      🕘 6'36''/km        in 4 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
