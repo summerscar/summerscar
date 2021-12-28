@@ -42,8 +42,8 @@ SCSS       🕓 1 hr 26 mins  ▌░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏃Run          3.58km      🕘 6'39''/km        in 3 days 
-🏃Run          3.47km      🕘 6'36''/km        in 9 days 
+🏃Run          3.58km      🕘 6'39''/km        in 4 days 
+🏃Run          3.47km      🕘 6'36''/km        in 10 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
