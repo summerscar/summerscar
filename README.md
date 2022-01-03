@@ -42,7 +42,7 @@ JSON                     🕓 2 hrs 2 mins   ▉░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏃Run          3.58km      🕘 6'39''/km        in 9 days 
+🏃Run          3.58km      🕘 6'39''/km        in 10 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
