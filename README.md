@@ -25,7 +25,7 @@ JSON       🕓 1 hr 1 min     ▌░░░░░░░░░░░░░░░�
 🎮 Steam playtime leaderboard
 ```text
 🚓 Grand Theft Auto V               🕘 249 hrs 52 mins
-🔫 Counter-Strike: Global Offensive 🕘 204 hrs 29 mins
+🔫 Counter-Strike: Global Offensive 🕘 204 hrs 42 mins
 💻 Wallpaper Engine                 🕘 34 hrs 9 mins
 🎮 SAMURAI WARRIORS 4-II            🕘 28 hrs 33 mins
 🎮 Lucy -The Eternity She Wished For- 🕘 28 hrs 13 mins
