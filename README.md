@@ -40,7 +40,7 @@ Markdown   🕓 0 secs         ░░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-这个人有点懒~
+常州市 跑步         3.5km       🕘 07'22''          in an hour 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
