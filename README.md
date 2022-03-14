@@ -38,7 +38,8 @@ JavaScript 🕓 35 mins ██████████████████�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-常州市 跑步         3.6km       🕘 06'44''          in 8 days 
+常州市 跑步         3.3km       🕘 06'05''          in an hour 
+常州市 跑步         3.6km       🕘 06'44''          in 9 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
