@@ -42,8 +42,8 @@ YAML       🕓 1 min   ▎░░░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-常州市 跑步         3.5km       🕘 06'25''          in 6 days 
-常州市 跑步         3.3km       🕘 06'05''          in 8 days 
+常州市 跑步         3.5km       🕘 06'25''          in 7 days 
+常州市 跑步         3.3km       🕘 06'05''          in 9 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
