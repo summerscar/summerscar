@@ -42,7 +42,7 @@ Docker     🕓 20 mins       ▍░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-常州市 跑步         3.5km       🕘 06'25''          in 9 days 
+这个人有点懒~
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
