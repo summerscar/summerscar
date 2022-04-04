@@ -42,8 +42,8 @@ Other      🕓 8 mins         ░░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-跑步机            3.4km       🕘 06'43''          in 4 hours 
-上海市 跑步         4.0km       🕘 05'43''          in 8 days 
+🏃跑步机          3.4km       🕘 06'43''          in 17 hours 
+🏃上海市 跑步       4.0km       🕘 05'43''          in 9 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
