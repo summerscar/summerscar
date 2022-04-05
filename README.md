@@ -42,9 +42,8 @@ XML        🕓 1 min         ░░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏃跑步机          4.3km       🕘 07'02''          in an hour 
+🏃跑步机          4.3km       🕘 07'02''          in 3 hours 
 🏃跑步机          3.4km       🕘 06'43''          in 2 days 
-🏃上海市 跑步       4.0km       🕘 05'43''          in 10 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
