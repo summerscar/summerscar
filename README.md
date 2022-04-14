@@ -42,8 +42,8 @@ Vue.js     🕓 1 hr 1 min     ▊░░░░░░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏃跑步机          4.0km       🕘 06'21''          in 6 days 
-🏃跑步机          4.3km       🕘 07'02''          in 8 days 
+🏃跑步机          4.0km       🕘 06'21''          in 7 days 
+🏃跑步机          4.3km       🕘 07'02''          in 9 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
