@@ -22,13 +22,10 @@ Vue.js     🕓 12 mins        ░░░░░░░░░░░░░░░░�
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
-🎮 Steam playtime leaderboard
+🎮 Recently played Steam games
 ```text
-🚓 Grand Theft Auto V               🕘 249 hrs 52 mins
-🔫 Counter-Strike: Global Offensive 🕘 205 hrs 17 mins
-💻 Wallpaper Engine                 🕘 34 hrs 9 mins
-🎮 SAMURAI WARRIORS 4-II            🕘 28 hrs 33 mins
-🎮 Lucy -The Eternity She Wished For- 🕘 28 hrs 13 mins
+🎮 SAMURAI WARRIORS 5               🕘 19 hrs 5 mins
+🎮 BattleBlock Theater              🕘 22 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
