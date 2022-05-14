@@ -24,8 +24,7 @@ Vue.js     🕓 12 mins        ░░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SAMURAI WARRIORS 5               🕘 20 hrs 5 mins
-🎮 BattleBlock Theater              🕘 22 hrs 24 mins
+🎮 SAMURAI WARRIORS 5               🕘 28 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
