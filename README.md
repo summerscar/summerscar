@@ -26,6 +26,8 @@ JSON                     🕓 30 mins        ▎░░░░░░░░░░�
 ```text
 🎮 SAMURAI WARRIORS 5               🕘 28 hrs 55 mins
 🎮 Titanfall® 2                     🕘 1 hrs 22 mins
+🔫 Counter-Strike: Global Offensive 🕘 206 hrs 20 mins
+🎮 Shadow of the Tomb Raider        🕘 0 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
