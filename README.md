@@ -39,7 +39,8 @@ JSON                     🕓 30 mins        ▎░░░░░░░░░░�
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏃上海市 跑步       4.3km       🕘 07'19''          in 4 days 
+🏃上海市 跑步       1.6km       🕘 06'15''          in a day 
+🏃上海市 跑步       4.3km       🕘 07'19''          in 5 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
