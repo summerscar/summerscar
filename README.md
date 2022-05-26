@@ -25,8 +25,8 @@ Vue.js     🕓 30 mins       ▎░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 SAMURAI WARRIORS 5               🕘 28 hrs 55 mins
+🔫 Counter-Strike: Global Offensive 🕘 206 hrs 57 mins
 🎮 Titanfall® 2                     🕘 1 hrs 22 mins
-🔫 Counter-Strike: Global Offensive 🕘 206 hrs 20 mins
 🎮 Shadow of the Tomb Raider        🕘 0 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
