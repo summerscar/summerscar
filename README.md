@@ -24,7 +24,7 @@ Other      🕓 23 mins        ▏░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Shadow of the Tomb Raider        🕘 7 hrs 7 mins
+🎮 Shadow of the Tomb Raider        🕘 7 hrs 24 mins
 🎮 Titanfall® 2                     🕘 7 hrs 19 mins
 🔫 Counter-Strike: Global Offensive 🕘 206 hrs 57 mins
 🎮 BattleBit Remastered Playtest    🕘 0 hrs 13 mins
