@@ -26,9 +26,9 @@ PHP        🕓 21 mins        ▏░░░░░░░░░░░░░░░�
 ```text
 🎮 Shadow of the Tomb Raider        🕘 7 hrs 24 mins
 🎮 Titanfall® 2                     🕘 7 hrs 19 mins
-🔫 Counter-Strike: Global Offensive 🕘 206 hrs 57 mins
 🎮 BattleBit Remastered Playtest    🕘 0 hrs 13 mins
 🎮 Devil May Cry 5                  🕘 0 hrs 11 mins
+🎮 ICEY                             🕘 15 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
