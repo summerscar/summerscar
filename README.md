@@ -24,7 +24,7 @@ PHP        🕓 28 mins       ▎░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Shadow of the Tomb Raider        🕘 7 hrs 24 mins
+🎮 Shadow of the Tomb Raider        🕘 9 hrs 56 mins
 🎮 Titanfall® 2                     🕘 7 hrs 19 mins
 🎮 BattleBit Remastered Playtest    🕘 0 hrs 13 mins
 🎮 Devil May Cry 5                  🕘 0 hrs 11 mins
