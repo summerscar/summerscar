@@ -55,7 +55,6 @@ PHP        🕓 8 mins         ░░░░░░░░░░░░░░░░�
 ```text
 🏃上海市 跑步       4.5km       🕘 05'48''          in 4 days 
 🏃上海市 跑步       4.1km       🕘 06'14''          in 6 days 
-🏃上海市 跑步       2.8km       🕘 06'33''          in 10 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
