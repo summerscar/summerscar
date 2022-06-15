@@ -38,7 +38,7 @@ PHP        🕓 8 mins         ░░░░░░░░░░░░░░░░�
 ```text
 🎮 Shadow of the Tomb Raider        🕘 13 hrs 49 mins
 🎮 Titanfall® 2                     🕘 7 hrs 19 mins
-🎮 Devil May Cry 5                  🕘 0 hrs 11 mins
+🎮 Devil May Cry 5                  🕘 1 hrs 19 mins
 🎮 ICEY                             🕘 15 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
