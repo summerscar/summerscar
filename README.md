@@ -37,7 +37,7 @@ Docker     🕓 43 mins        ▍░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 Shadow of the Tomb Raider        🕘 13 hrs 49 mins
-🎮 Devil May Cry 5                  🕘 1 hrs 19 mins
+🎮 Devil May Cry 5                  🕘 5 hrs 13 mins
 🎮 ICEY                             🕘 15 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
