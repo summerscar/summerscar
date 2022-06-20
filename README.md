@@ -38,7 +38,6 @@ Docker     🕓 1 hr           ▌░░░░░░░░░░░░░░░�
 ```text
 🎮 Shadow of the Tomb Raider        🕘 13 hrs 49 mins
 🎮 Devil May Cry 5                  🕘 5 hrs 13 mins
-🎮 ICEY                             🕘 15 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
