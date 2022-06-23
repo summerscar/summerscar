@@ -14,7 +14,7 @@ jobs:
     name: Upddate-gist
     runs-on: ubuntu-latest
     env:
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       UPDATE_OPTION: MARKDOWN
       MARKDOWN_FILE: README.md
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
