@@ -37,7 +37,6 @@ YAML       🕓 1 hr 43 mins   ▊░░░░░░░░░░░░░░░�
 🎮 Recently played Steam games
 ```text
 🎮 Devil May Cry 5                  🕘 5 hrs 13 mins
-🎮 Shadow of the Tomb Raider        🕘 13 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
