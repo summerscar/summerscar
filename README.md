@@ -36,7 +36,9 @@ YAML       🕓 1 hr 43 mins   ▊░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Devil May Cry 5                  🕘 5 hrs 13 mins
+🎮 Devil May Cry 5                  🕘 8 hrs 59 mins
+🎮 Monster Hunter: World            🕘 3 hrs 8 mins
+🎮 Forza Horizon 4                  🕘 0 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
