@@ -29,7 +29,6 @@ jobs:
           repository: summerscar/coros-box
           token: ${{ secrets.GITHUB_TOKEN }}
           path: coros-box
-          ref: foreign
           
       - run: |
           cd coros-box
