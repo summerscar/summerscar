@@ -36,7 +36,7 @@ SCSS           🕓 2 hrs 51 mins  █▌░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Forza Horizon 4                  🕘 19 hrs 13 mins
+🎮 Forza Horizon 4                  🕘 22 hrs 0 mins
 🎮 Devil May Cry 5                  🕘 8 hrs 59 mins
 🎮 Monster Hunter: World            🕘 3 hrs 8 mins
 ```
