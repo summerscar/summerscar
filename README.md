@@ -37,8 +37,6 @@ Other          🕓 52 mins        ▌░░░░░░░░░░░░░░
 🎮 Recently played Steam games
 ```text
 🎮 Forza Horizon 4                  🕘 22 hrs 0 mins
-🎮 Devil May Cry 5                  🕘 8 hrs 59 mins
-🎮 Monster Hunter: World            🕘 3 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
