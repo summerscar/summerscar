@@ -63,7 +63,7 @@ Other          🕓 24 mins        ▎░░░░░░░░░░░░░░
 </a>
 <br/>
 <a href="https://github.com/summerscar">
-  <img align="left" height="170px" src="https://raw.githubusercontent.com/summerscar/summerscar/master/profile-summary-card-output/github/1-repos-per-language.svg" />
+  <img align="left" height="170px" src="https://raw.githubusercontent.com/summerscar/summerscar/master/profile-summary-card-output/github/2-most-commit-language.svg" />
   <a href="https://github.com/summerscar">
   <img align="left" height="170px" src="https://raw.githubusercontent.com/summerscar/summerscar/master/profile-summary-card-output/github/3-stats.svg" />
   
