@@ -33,7 +33,7 @@ Other          🕓 20 mins        ▏░░░░░░░░░░░░░░
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Forza Horizon 4                  🕘 22 hrs 0 mins
+🎮 Forza Horizon 4                  🕘 22 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
