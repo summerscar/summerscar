@@ -33,7 +33,9 @@ Other      🕓 15 mins        ▏░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Forza Horizon 4                  🕘 22 hrs 49 mins
+🎮 Forza Horizon 4                  🕘 25 hrs 49 mins
+🔫 Counter-Strike: Global Offensive 🕘 207 hrs 44 mins
+🎮 BattleBit Remastered Playtest    🕘 0 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
