@@ -13,19 +13,21 @@
 
 <table>
 <tr>
+<td>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
-<!-- waka-box start -->
-📊 每周工作报告
+<!-- coros-box start -->
+🏃最近运动
 ```text
-TypeScript 🕓 26 hrs 36 mins ██████████████░░░░░░░ 67.0%
-SCSS       🕓 5 hrs 8 mins   ██▋░░░░░░░░░░░░░░░░░░ 12.9%
-JSON       🕓 3 hrs 39 mins  █▉░░░░░░░░░░░░░░░░░░░  9.2%
-Rust       🕓 1 hr 42 mins   ▉░░░░░░░░░░░░░░░░░░░░  4.3%
-YAML       🕓 53 mins        ▍░░░░░░░░░░░░░░░░░░░░  2.2%
+🏊泳池游泳         1.7km       🕘 00:59:43         in 6 days 
 ```
-<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
-<!-- waka-box end -->
+<!-- Powered by https://github.com/summerscar/coros-box . -->
+<!-- coros-box end -->
 
 </td>
 <td valign="top" width="50%">
@@ -39,20 +41,6 @@ YAML       🕓 53 mins        ▍░░░░░░░░░░░░░░░�
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
-
-</td>
-</tr>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-<!-- coros-box start -->
-🏃最近运动
-```text
-🏊泳池游泳         1.7km       🕘 00:59:43         in 6 days 
-```
-<!-- Powered by https://github.com/summerscar/coros-box . -->
-<!-- coros-box end -->
 
 </td>
 </tr>
