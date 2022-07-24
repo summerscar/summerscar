@@ -34,7 +34,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 Forza Horizon 4                  🕘 25 hrs 49 mins
-🔫 Counter-Strike: Global Offensive 🕘 208 hrs 16 mins
+🔫 Counter-Strike: Global Offensive 🕘 208 hrs 56 mins
 🎮 Titanfall® 2                     🕘 7 hrs 39 mins
 🎮 BattleBit Remastered Playtest    🕘 0 hrs 17 mins
 ```
