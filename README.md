@@ -33,7 +33,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 209 hrs 28 mins
+🔫 Counter-Strike: Global Offensive 🕘 210 hrs 53 mins
 🎮 Titanfall® 2                     🕘 7 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
