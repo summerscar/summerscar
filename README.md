@@ -34,7 +34,10 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 212 hrs 15 mins
+🔫 Counter-Strike: Global Offensive 🕘 212 hrs 33 mins
+🎮 Titanfall® 2                     🕘 8 hrs 6 mins
+🎮 Forza Horizon 4                  🕘 26 hrs 11 mins
+💻 Wallpaper Engine                 🕘 34 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
