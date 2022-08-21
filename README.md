@@ -36,8 +36,8 @@
 🎮 Recently played Steam games
 ```text
 🎮 Titanfall® 2                     🕘 8 hrs 6 mins
-🔫 Counter-Strike: Global Offensive 🕘 212 hrs 33 mins
 🎮 Forza Horizon 4                  🕘 26 hrs 11 mins
+🔫 Counter-Strike: Global Offensive 🕘 212 hrs 33 mins
 🎮 SAMURAI WARRIORS 5               🕘 28 hrs 59 mins
 💻 Wallpaper Engine                 🕘 34 hrs 11 mins
 ```
