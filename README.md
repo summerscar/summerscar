@@ -35,7 +35,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SAMURAI WARRIORS 5               🕘 28 hrs 59 mins
+
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
