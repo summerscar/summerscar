@@ -35,7 +35,8 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 212 hrs 42 mins
+🔫 Counter-Strike: Global Offensive 🕘 212 hrs 55 mins
+💻 Wallpaper Engine                 🕘 34 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
