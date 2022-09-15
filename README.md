@@ -19,6 +19,7 @@
 <!-- coros-box start -->
 🏃最近运动
 ```text
+🏃上海市 跑步       4.3km       🕘 00:28:28         in an hour 
 🏃上海市 跑步       3.8km       🕘 00:28:02         in 9 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
