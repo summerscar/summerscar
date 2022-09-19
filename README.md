@@ -34,7 +34,8 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Battlefield™ 2042                🕘 1 hrs 51 mins
+🎮 Battlefield™ 2042                🕘 2 hrs 46 mins
+🎮 STEINS;GATE                      🕘 0 hrs 21 mins
 🔫 Counter-Strike: Global Offensive 🕘 213 hrs 12 mins
 💻 Wallpaper Engine                 🕘 34 hrs 18 mins
 ```
