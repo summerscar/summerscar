@@ -37,8 +37,8 @@
 🎮 Recently played Steam games
 ```text
 🎮 Battlefield™ 2042                🕘 5 hrs 45 mins
+🎮 Call of Duty®: Modern Warfare® II - Open Beta 🕘 0 hrs 31 mins
 🎮 STEINS;GATE                      🕘 0 hrs 21 mins
-🔫 Counter-Strike: Global Offensive 🕘 213 hrs 12 mins
 💻 Wallpaper Engine                 🕘 34 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
