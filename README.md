@@ -34,7 +34,6 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Call of Duty®: Modern Warfare® II - Open Beta 🕘 0 hrs 31 mins
 🎮 Battlefield™ 2042                🕘 6 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
