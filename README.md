@@ -36,7 +36,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Red Dead Redemption 2            🕘 11 hrs 26 mins
+🎮 Red Dead Redemption 2            🕘 22 hrs 13 mins
 🎮 Forza Horizon 4                  🕘 26 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
