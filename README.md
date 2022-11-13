@@ -33,7 +33,6 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Red Dead Redemption 2            🕘 39 hrs 49 mins
 🎮 Battlefield™ 2042                🕘 6 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
