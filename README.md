@@ -32,7 +32,6 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 213 hrs 55 mins
 🎮 Assassin's Creed Odyssey         🕘 0 hrs 7 mins
 🎮 Controller Companion             🕘 0 hrs 1 mins
 ```
