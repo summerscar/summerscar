@@ -34,6 +34,7 @@
 ```text
 🎮 Assassin's Creed Odyssey         🕘 0 hrs 7 mins
 🎮 Controller Companion             🕘 0 hrs 1 mins
+💻 Wallpaper Engine                 🕘 34 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
