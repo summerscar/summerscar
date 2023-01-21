@@ -32,7 +32,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Assassin's Creed Odyssey         🕘 2 hrs 16 mins
+🎮 Assassin's Creed Odyssey         🕘 6 hrs 8 mins
 💻 Wallpaper Engine                 🕘 34 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
