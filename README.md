@@ -19,7 +19,7 @@
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏃跑步机          4.0km       🕘 01:11:15         in 7 days 
+🏃跑步机          4.0km       🕘 01:11:15         in 8 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
