@@ -33,7 +33,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Assassin's Creed Odyssey         🕘 30 hrs 37 mins
+🎮 Assassin's Creed Odyssey         🕘 36 hrs 32 mins
 🎮 Just Go                          🕘 1 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
