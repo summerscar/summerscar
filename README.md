@@ -19,7 +19,7 @@
 <!-- coros-box start -->
 🏃最近运动
 ```text
-这个人有点懒~
+🏃上海市 跑步       4.0km       🕘 00:25:56         in an hour 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
