@@ -35,7 +35,6 @@
 ```text
 🎮 Battlefield™ 2042                🕘 6 hrs 56 mins
 🎮 STAR WARS Jedi: Fallen Order™    🕘 0 hrs 19 mins
-🔫 Counter-Strike: Global Offensive 🕘 214 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
