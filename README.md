@@ -34,7 +34,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 STAR WARS Jedi: Fallen Order™    🕘 0 hrs 19 mins
+
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
