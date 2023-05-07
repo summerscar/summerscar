@@ -36,7 +36,6 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Assassin's Creed Odyssey         🕘 46 hrs 31 mins
 🔫 Counter-Strike: Global Offensive 🕘 214 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
