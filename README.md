@@ -35,7 +35,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-
+🎮 生死狙击2-国服                   🕘 1 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
