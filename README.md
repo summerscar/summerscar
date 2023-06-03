@@ -34,6 +34,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 生死狙击2-国服                   🕘 5 hrs 45 mins
+🎮 Forza Horizon 4                  🕘 26 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
