@@ -33,9 +33,9 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Assassin's Creed Odyssey         🕘 47 hrs 18 mins
+🎮 Assassin's Creed Odyssey         🕘 48 hrs 11 mins
+🎮 BattleBit Remastered Playtest    🕘 0 hrs 22 mins
 🎮 Forza Horizon 4                  🕘 26 hrs 27 mins
-🎮 BattleBit Remastered Playtest    🕘 0 hrs 20 mins
 🎮 SAMURAI WARRIORS 4-II            🕘 28 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
