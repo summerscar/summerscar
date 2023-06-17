@@ -33,10 +33,11 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Assassin's Creed Odyssey         🕘 48 hrs 11 mins
+🎮 Assassin's Creed Odyssey         🕘 48 hrs 17 mins
+🔫 Counter-Strike: Global Offensive 🕘 215 hrs 29 mins
+💻 Wallpaper Engine                 🕘 34 hrs 31 mins
+🎮 Assassin's Creed Unity           🕘 0 hrs 11 mins
 🎮 BattleBit Remastered Playtest    🕘 0 hrs 22 mins
-🎮 Forza Horizon 4                  🕘 26 hrs 27 mins
-🎮 SAMURAI WARRIORS 4-II            🕘 28 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
