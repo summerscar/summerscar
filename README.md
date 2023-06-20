@@ -28,25 +28,15 @@
 
 </td>
 </tr>
+
 <tr>
-<td valign="top">
-<!-- TODO: https://cardn.yuy1n.io/ -->
-
-<!-- steam-box start -->
-🎮 Recently played Steam games
-```text
-🎮 Assassin's Creed Odyssey         🕘 48 hrs 17 mins
-🔫 Counter-Strike: Global Offensive 🕘 215 hrs 29 mins
-💻 Wallpaper Engine                 🕘 34 hrs 31 mins
-🎮 Assassin's Creed Unity           🕘 0 hrs 11 mins
-🎮 BattleBit Remastered Playtest    🕘 0 hrs 22 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
-
-</td>
+  <td>
+    <p align="center">
+      <!--  https://cardn.yuy1n.io/ -->
+      <img width="400" height="140" src="https://steam-card-six.vercel.app/card/76561198027429429/radical,badge,group,bg-game-261570">
+    </p>
+  </td>
 </tr>
-
 
 <tr>
   <td>
