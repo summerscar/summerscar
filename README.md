@@ -30,6 +30,7 @@
 </tr>
 <tr>
 <td valign="top">
+<!-- TODO: https://cardn.yuy1n.io/ -->
 
 <!-- steam-box start -->
 🎮 Recently played Steam games
@@ -45,6 +46,17 @@
 
 </td>
 </tr>
+
+
+<tr>
+  <td>
+    <p align="center">
+      <!--  https://ns.yuy1n.io/ -->
+      <img width="460" height="182" align="center" src="https://ns.yuy1n.io/card/bac3066920344a7b" />
+    </p>
+  </td>
+</tr>
+
 </table>
 
 <p>
