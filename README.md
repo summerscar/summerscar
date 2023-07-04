@@ -19,7 +19,7 @@
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏊泳池游泳         1.6km       🕘 00:54:59         in 2 days 
+🏊泳池游泳         1.6km       🕘 00:54:59         in 3 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
