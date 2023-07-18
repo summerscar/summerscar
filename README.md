@@ -41,7 +41,7 @@
   <td>
     <p align="center">
       <!--  https://ns.yuy1n.io/ -->
-      <img width="460" height="182" align="center" src="https://ns.yuy1n.io/card/bac3066920344a7b" />
+      <img width="460" height="182" align="center" src="https://ns.yuy1n.io/card/bac3066920344a7b/history" />
     </p>
   </td>
 </tr>
