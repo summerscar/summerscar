@@ -19,7 +19,7 @@
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏃苏州市 跑步       21.2km      🕘 02:03:43         in 8 days 
+🏃苏州市 跑步       21.2km      🕘 02:03:43         in 9 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
