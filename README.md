@@ -94,17 +94,16 @@ Sunday                   659 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   4 mins              ███████████████████░░░░░░   74.03 % 
-TypeScript               1 min               ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ZyPlayer [GitHub]        5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +119,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2023 15:32:01 UTC
+ Last Updated on 30/11/2023 15:29:41 UTC
 <!--END_SECTION:waka-->
 
 <div>
