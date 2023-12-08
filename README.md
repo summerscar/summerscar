@@ -57,7 +57,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 779.3 kB Used in GitHub's Storage 
+> 📦 779.4 kB Used in GitHub's Storage 
  > 
 > 🏆 153 Contributions in the Year 2023
  > 
@@ -94,17 +94,16 @@ Sunday                   659 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     0 secs              ███████████████████░░░░░░   75.13 % 
-JavaScript               0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-learn-for-job            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +119,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2023 15:31:22 UTC
+ Last Updated on 08/12/2023 15:30:07 UTC
 <!--END_SECTION:waka-->
 
 <div>
