@@ -19,7 +19,7 @@
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏃常州市 跑步       4.0km       🕘 00:24:26         in 8 days 
+🏃常州市 跑步       4.0km       🕘 00:24:26         in 9 days 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
