@@ -19,7 +19,7 @@
 <!-- coros-box start -->
 🏃最近运动
 ```text
-这个人有点懒~
+🏃常州市 跑步       3.0km       🕘 00:18:58         in an hour 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
