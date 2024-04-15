@@ -19,7 +19,7 @@
 <!-- coros-box start -->
 🏃最近运动
 ```text
-🏃跑步           3.1km       🕘 00:32:19         in 2 hours 
+🏃跑步           3.1km       🕘 00:32:19         in 4 hours 
 ```
 <!-- Powered by https://github.com/summerscar/coros-box . -->
 <!-- coros-box end -->
