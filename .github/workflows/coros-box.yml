@@ -25,9 +25,8 @@ jobs:
 
       - run: |
           cd coros-box
-          yarn config set "strict-ssl" false -g
-          yarn
-          yarn start
+          pnpm i
+          pnpm start
           cd ../
           rm -rf ./coros-box
 
