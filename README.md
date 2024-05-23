@@ -59,7 +59,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 796.9 kB Used in GitHub's Storage 
+> 📦 797.0 kB Used in GitHub's Storage 
  > 
 > 🏆 21 Contributions in the Year 2024
  > 
@@ -96,16 +96,21 @@ Sunday                   668 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 3 mins         ███████████████░░░░░░░░░░   61.28 % 
+JSON                     23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+TypeScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+coros-box                1 hr 33 mins        ███████████████████████░░   91.00 % 
+github-profile-summary-ca9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +126,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2024 15:31:23 UTC
+ Last Updated on 23/05/2024 15:31:25 UTC
 <!--END_SECTION:waka-->
 
 <div>
