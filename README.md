@@ -14,17 +14,10 @@
 
 <table align="center">
 <tr>
-<td valign="top">
-
-<!-- coros-box start -->
-🏃最近运动
-```text
-🏃跑步           15.4km      🕘 01:41:07         in 7 days 
-🏃跑步           5.5km       🕘 00:34:06         in 9 days 
-```
-<!-- Powered by https://github.com/summerscar/coros-box . -->
-<!-- coros-box end -->
-
+<td colspan="2" valign="top">
+  <p align="center">
+    <img src="coros-card/card.svg">
+  </p>
 </td>
 </tr>
 
@@ -35,15 +28,16 @@
       <img width="400" height="140" src="https://steam-card-six.vercel.app/card/76561198027429429/radical,badge,group,bg-game-261570">
     </p>
   </td>
-</tr>
-
-<tr>
   <td>
     <p align="center">
       <!--  https://ns.yuy1n.io/ -->
       <img width="460" height="182" align="center" src="https://ns.yuy1n.io/card/bac3066920344a7b/history" />
     </p>
   </td>
+</tr>
+
+<tr>
+
 </tr>
 
 </table>
