@@ -21,25 +21,6 @@
 </td>
 </tr>
 
-<tr>
-  <td>
-    <p align="center">
-      <!--  https://cardn.yuy1n.io/ -->
-      <img width="400" height="140" src="https://steam-card-six.vercel.app/card/76561198027429429/radical,badge,group,bg-game-261570">
-    </p>
-  </td>
-  <td>
-    <p align="center">
-      <!--  https://ns.yuy1n.io/ -->
-      <img width="460" height="182" align="center" src="https://ns.yuy1n.io/card/bac3066920344a7b/history" />
-    </p>
-  </td>
-</tr>
-
-<tr>
-
-</tr>
-
 </table>
 <!--
 <p>
