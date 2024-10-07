@@ -28,8 +28,6 @@
 
 > 📦 787.8 kB Used in GitHub's Storage 
  > 
-> 🏆 200 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 57 Public Repositories 
@@ -63,15 +61,13 @@ Sunday                   719 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 53 mins       █████████████████████████   99.90 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 53 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 53 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +83,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2024 15:32:42 UTC
+ Last Updated on 07/10/2024 15:36:53 UTC
 <!--END_SECTION:waka-->
 
 <div>
