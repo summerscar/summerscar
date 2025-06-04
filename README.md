@@ -37,13 +37,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               28 mins             ██████████████░░░░░░░░░░░   56.83 % 
+Markdown                 12 mins             ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+JSON                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  50 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -59,7 +62,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2025 15:36:27 UTC
+ Last Updated on 04/06/2025 15:51:50 UTC
 <!--END_SECTION:waka-->
 
 <div>
