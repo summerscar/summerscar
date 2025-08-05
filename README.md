@@ -37,15 +37,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     7 mins              █████████████████████████   99.34 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Windsurf                 6 mins              ██████████████████████░░░   86.82 % 
-Cursor                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -61,7 +59,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2025 15:41:26 UTC
+ Last Updated on 05/08/2025 15:40:47 UTC
 <!--END_SECTION:waka-->
 
 <div>
