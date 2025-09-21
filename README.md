@@ -31,6 +31,22 @@
 -->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+JavaScript               39 mins             ███████████████████████░░   93.98 % 
+TypeScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+
+🔥 Editors: 
+Windsurf                 42 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      42 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -44,7 +60,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2025 15:27:47 UTC
+ Last Updated on 21/09/2025 15:27:51 UTC
 <!--END_SECTION:waka-->
 
 <div>
