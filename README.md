@@ -37,13 +37,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Windsurf                 33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -59,7 +59,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2025 15:36:15 UTC
+ Last Updated on 30/10/2025 15:35:08 UTC
 <!--END_SECTION:waka-->
 
 <div>
