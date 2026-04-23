@@ -37,34 +37,34 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               18 hrs 48 mins      ███████████████████░░░░░░   76.00 % 
-Bash                     2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Docker                   1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-YAML                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+TypeScript               13 hrs 36 mins      ███████████████████░░░░░░   76.42 % 
+Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Bash                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+JavaScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Docker                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-Windsurf                 23 hrs 59 mins      ████████████████████████░   96.94 % 
-VS Code                  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Windsurf                 15 hrs 52 mins      ██████████████████████░░░   89.21 % 
+VS Code                  1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 
 💻 Operating System: 
-Mac                      24 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               48 repos            ██████████████░░░░░░░░░░░   55.17 % 
-TypeScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-HTML                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+JavaScript               48 repos            ██████████████░░░░░░░░░░░   54.55 % 
+TypeScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+HTML                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 ```
 
 
 
 
- Last Updated on 22/04/2026 16:18:35 UTC
+ Last Updated on 23/04/2026 16:52:55 UTC
 <!--END_SECTION:waka-->
 
 <div>
