@@ -37,36 +37,36 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               66 hrs 16 mins      ████████████████████░░░░░   81.12 % 
-JSON                     5 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Markdown                 4 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-CSS                      1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Bash                     1 hr 18 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+TypeScript               63 hrs 33 mins      ████████████████████░░░░░   79.32 % 
+JSON                     6 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Markdown                 4 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+CSS                      1 hr 33 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Bash                     1 hr 19 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🔥 Editors: 
-VS Code                  60 hrs 32 mins      ███████████████████░░░░░░   74.10 % 
-Vscodium                 21 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+VS Code                  54 hrs 59 mins      █████████████████░░░░░░░░   68.62 % 
+Vscodium                 24 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   31.16 % 
+Claude Code              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 6.7                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      81 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      80 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               48 repos            ██████████████░░░░░░░░░░░   54.55 % 
-TypeScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-HTML                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+JavaScript               48 repos            █████████████░░░░░░░░░░░░   53.93 % 
+TypeScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+HTML                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 
 
 
 
- Last Updated on 10/06/2026 18:09:06 UTC
+ Last Updated on 11/06/2026 18:27:30 UTC
 <!--END_SECTION:waka-->
 
 <div>
