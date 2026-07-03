@@ -37,35 +37,35 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               19 hrs 21 mins      ███████████████░░░░░░░░░░   59.61 % 
-Bash                     3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-JSON                     3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Markdown                 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-YAML                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+TypeScript               23 hrs 18 mins      ████████████████░░░░░░░░░   64.59 % 
+Bash                     3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+JSON                     2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Markdown                 2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 26 mins      █████████████████████████   99.95 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+VS Code                  36 hrs 4 mins       █████████████████████████   99.96 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      32 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      36 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               48 repos            █████████████░░░░░░░░░░░░   53.93 % 
-TypeScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-HTML                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+JavaScript               48 repos            █████████████░░░░░░░░░░░░   52.75 % 
+TypeScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 
 
 
 
- Last Updated on 02/07/2026 17:01:34 UTC
+ Last Updated on 03/07/2026 16:45:10 UTC
 <!--END_SECTION:waka-->
 
 <div>
