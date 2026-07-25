@@ -31,6 +31,25 @@
 -->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               19 hrs 52 mins      █████████████████░░░░░░░░   69.45 % 
+Bash                     4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Markdown                 2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+JavaScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+
+🔥 Editors: 
+VS Code                  28 hrs 37 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      28 hrs 37 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -44,7 +63,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 16:58:04 UTC
+ Last Updated on 25/07/2026 16:12:26 UTC
 <!--END_SECTION:waka-->
 
 <div>
