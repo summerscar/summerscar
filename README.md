@@ -37,17 +37,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               19 hrs 52 mins      █████████████████░░░░░░░░   69.45 % 
-Bash                     4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Markdown                 2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-JavaScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+TypeScript               18 hrs 41 mins      ██████████████████░░░░░░░   71.43 % 
+Markdown                 3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Bash                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Makefile                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Other                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 10 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      28 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -63,7 +63,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 16:12:26 UTC
+ Last Updated on 26/07/2026 16:14:25 UTC
 <!--END_SECTION:waka-->
 
 <div>
