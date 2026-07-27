@@ -31,23 +31,49 @@
 -->
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-378%20hrs%2054%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               18 hrs 41 mins      ██████████████████░░░░░░░   71.43 % 
-Markdown                 3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Bash                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-Makefile                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Other                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+TypeScript               16 hrs 37 mins      ██████████████████░░░░░░░   71.97 % 
+Markdown                 2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Bash                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Makefile                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Other                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 6 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      26 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 6 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 10 hrs 16 mins (44.46%)
+
+✍️ 21,982 lines written by AI, 1,486 lines written by hand (93.67% AI-written)
+
+🔤 7,884,428 Input Tokens, 494,557 Output Tokens
+
+💵 $31.14 Estimated AI Cost This Week
+
+🧠 90 AI Sessions, 217 AI Prompts
+
+Hy                       17,696 lines        ████████████████████░░░░░   79.15 % 
+Deepseek                 4,173 lines         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Opencode-Cli             489 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 93.67% of written lines came from AI
+📚 Verbose Prompter — average 2,284 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 10.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -63,7 +89,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 16:14:25 UTC
+ Last Updated on 27/07/2026 17:11:12 UTC
 <!--END_SECTION:waka-->
 
 <div>
