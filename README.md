@@ -39,25 +39,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               14 hrs 34 mins      ████████████████░░░░░░░░░   65.36 % 
-Markdown                 4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Bash                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Makefile                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Other                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+TypeScript               10 hrs 57 mins      ████████████████░░░░░░░░░   63.32 % 
+Markdown                 4 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Makefile                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 17 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 13 mins (50.37%)
+⏱ AI Coding Time: 11 hrs 13 mins (64.92%)
 
-✍️ 23,833 lines written by AI, 1,348 lines written by hand (94.65% AI-written)
+✍️ 23,833 lines written by AI, 1,015 lines written by hand (95.92% AI-written)
 
 🔤 7,712,097 Input Tokens, 533,886 Output Tokens
 
@@ -70,10 +70,10 @@ Deepseek                 5,611 lines         ██████░░░░░�
 Opencode-Cli             956 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.65% of written lines came from AI
+🤖 AI-Driven — 95.92% of written lines came from AI
 📚 Verbose Prompter — average 2,335 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 8.49% of changed lines were hand-edited
+🚀 High AI Trust — 7.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +89,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 16:38:28 UTC
+ Last Updated on 30/07/2026 16:50:27 UTC
 <!--END_SECTION:waka-->
 
 <div>
