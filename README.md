@@ -39,41 +39,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 19 mins       ████████████░░░░░░░░░░░░░   47.54 % 
-TypeScript               1 hr 53 mins        ██████████░░░░░░░░░░░░░░░   38.66 % 
-Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Makefile                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Markdown                 1 hr 24 mins        ████████████░░░░░░░░░░░░░   48.26 % 
+TypeScript               1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   39.59 % 
+Makefile                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 28 mins (70.84%)
+⏱ AI Coding Time: 1 hr 30 mins (51.7%)
 
-✍️ 2,316 lines written by AI, 838 lines written by hand (73.43% AI-written)
+✍️ 1,851 lines written by AI, 72 lines written by hand (96.26% AI-written)
 
-🔤 2,042,425 Input Tokens, 104,214 Output Tokens
+🔤 400,677 Input Tokens, 40,606 Output Tokens
 
-💵 $7.69 Estimated AI Cost This Week
+💵 $1.81 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 63 AI Prompts
+🧠 6 AI Sessions, 20 AI Prompts
 
-Deepseek                 1,440 lines         ███████████████░░░░░░░░░░   60.76 % 
-Opencode-Cli             930 lines           ██████████░░░░░░░░░░░░░░░   39.24 % 
+Deepseek                 1,438 lines         ███████████████████░░░░░░   75.49 % 
+Opencode-Cli             467 lines           ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
 Hy                       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.43% of written lines came from AI
-📚 Verbose Prompter — average 2,480 characters per prompt
+🤖 AI-Driven — 96.26% of written lines came from AI
+📚 Verbose Prompter — average 2,104 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 39.32% of changed lines were hand-edited
+🚀 High AI Trust — 5.79% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +89,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 16:13:50 UTC
+ Last Updated on 02/08/2026 16:13:42 UTC
 <!--END_SECTION:waka-->
 
 <div>
