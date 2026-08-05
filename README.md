@@ -39,41 +39,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 9 mins         ███████████░░░░░░░░░░░░░░   45.26 % 
-Markdown                 1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   40.85 % 
-Makefile                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+TypeScript               55 mins             ██████████████████░░░░░░░   72.22 % 
+Makefile                 17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 8 mins (44.78%)
-
-✍️ 1,818 lines written by AI, 72 lines written by hand (96.19% AI-written)
-
-🔤 214,704 Input Tokens, 35,394 Output Tokens
-
-💵 $1.18 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 17 AI Prompts
-
-Deepseek                 1,438 lines         ███████████████████░░░░░░   76.82 % 
-Opencode-Cli             434 lines           ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-Hy                       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 96.19% of written lines came from AI
-📚 Verbose Prompter — average 2,216 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.39% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +71,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 17:03:53 UTC
+ Last Updated on 05/08/2026 16:53:21 UTC
 <!--END_SECTION:waka-->
 
 <div>
