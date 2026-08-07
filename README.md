@@ -31,33 +31,6 @@
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-380%20hrs%2025%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               55 mins             ██████████████████░░░░░░░   72.22 % 
-Makefile                 17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-
-🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      1 hr 16 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -71,7 +44,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 16:53:21 UTC
+ Last Updated on 07/08/2026 16:09:05 UTC
 <!--END_SECTION:waka-->
 
 <div>
