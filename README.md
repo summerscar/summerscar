@@ -31,6 +31,52 @@
 -->
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-388%20hrs%2018%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               4 hrs 39 mins       ████████████░░░░░░░░░░░░░   46.55 % 
+Markdown                 3 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.51 % 
+JavaScript               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Makefile                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+
+🔥 Editors: 
+VS Code                  10 hrs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      10 hrs              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 52 mins (78.71%)
+
+✍️ 5,824 lines written by AI, 79 lines written by hand (98.66% AI-written)
+
+🔤 7,058,242 Input Tokens, 282,439 Output Tokens
+
+💵 $33.35 Estimated AI Cost This Week
+
+🧠 55 AI Sessions, 124 AI Prompts
+
+Hy                       3,343 lines         ██████████████░░░░░░░░░░░   56.21 % 
+Deepseek                 2,604 lines         ███████████░░░░░░░░░░░░░░   43.79 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Agnes                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.66% of written lines came from AI
+📚 Verbose Prompter — average 2,520 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 1.62% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -44,7 +90,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 16:09:05 UTC
+ Last Updated on 08/08/2026 15:47:14 UTC
 <!--END_SECTION:waka-->
 
 <div>
