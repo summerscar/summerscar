@@ -31,7 +31,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-397%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-399%20hrs%2050%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -39,42 +39,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               14 hrs 57 mins      █████████████████░░░░░░░░   67.95 % 
-Markdown                 2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-JavaScript               1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-JSON                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+TypeScript               18 hrs 36 mins      ██████████████████░░░░░░░   71.91 % 
+Markdown                 2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+JavaScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+JSON                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  25 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      25 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 35 mins (75.32%)
+⏱ AI Coding Time: 18 hrs 36 mins (71.86%)
 
-✍️ 6,936 lines written by AI, 289 lines written by hand (96.0% AI-written)
+✍️ 7,275 lines written by AI, 412 lines written by hand (94.64% AI-written)
 
-🔤 22,389,613 Input Tokens, 763,004 Output Tokens
+🔤 24,283,016 Input Tokens, 897,347 Output Tokens
 
-💵 $339.87 Estimated AI Cost This Week
+💵 $411.38 Estimated AI Cost This Week
 
-🧠 83 AI Sessions, 310 AI Prompts
+🧠 94 AI Sessions, 351 AI Prompts
 
-Deepseek                 3,705 lines         █████████████░░░░░░░░░░░░   50.41 % 
-Hy                       3,645 lines         ████████████░░░░░░░░░░░░░   49.59 % 
+Deepseek                 3,711 lines         ████████████░░░░░░░░░░░░░   48.03 % 
+Hy                       3,645 lines         ████████████░░░░░░░░░░░░░   47.17 % 
+Opencode-Cli             371 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 Agnes                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.0% of written lines came from AI
-📄 Detailed Prompter — average 1,448 characters per prompt
+🤖 AI-Driven — 94.64% of written lines came from AI
+📄 Detailed Prompter — average 1,417 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 6.24% of changed lines were hand-edited
+🚀 High AI Trust — 8.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +90,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 16:10:19 UTC
+ Last Updated on 14/08/2026 16:06:28 UTC
 <!--END_SECTION:waka-->
 
 <div>
