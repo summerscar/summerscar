@@ -39,42 +39,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               15 hrs              ███████████████████░░░░░░   74.57 % 
-Markdown                 2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Text                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+TypeScript               10 hrs 14 mins      ███████████████████░░░░░░   77.60 % 
+Markdown                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Text                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  13 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      20 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 51 mins (58.87%)
+⏱ AI Coding Time: 7 hrs 6 mins (53.77%)
 
-✍️ 10,076 lines written by AI, 715 lines written by hand (93.37% AI-written)
+✍️ 6,521 lines written by AI, 399 lines written by hand (94.23% AI-written)
 
-🔤 16,195,885 Input Tokens, 1,335,399 Output Tokens
+🔤 8,358,238 Input Tokens, 525,435 Output Tokens
 
-💵 $865.39 Estimated AI Cost This Week
+💵 $326.82 Estimated AI Cost This Week
 
-🧠 87 AI Sessions, 265 AI Prompts
+🧠 57 AI Sessions, 158 AI Prompts
 
-Opencode-Cli             9,655 lines         ███████████████████████░░   91.26 % 
-Deepseek                 925 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Opencode-Cli             6,630 lines         ████████████████████████░   96.37 % 
+Deepseek                 250 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 Agnes                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sensenova                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.37% of written lines came from AI
-📄 Detailed Prompter — average 1,079 characters per prompt
+🤖 AI-Driven — 94.23% of written lines came from AI
+📄 Detailed Prompter — average 1,246 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 9.72% of changed lines were hand-edited
+🚀 High AI Trust — 9.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +90,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 15:37:39 UTC
+ Last Updated on 24/08/2026 15:56:35 UTC
 <!--END_SECTION:waka-->
 
 <div>
