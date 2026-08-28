@@ -31,7 +31,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-421%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-421%20hrs%2053%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -39,32 +39,32 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 45 mins       ███████████░░░░░░░░░░░░░░   45.98 % 
-Markdown                 1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-YAML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Other                    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+TypeScript               5 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.85 % 
+YAML                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Markdown                 1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Docker                   1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 29 mins      █████████████████████████   99.64 % 
-Opencode Cli             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+VS Code                  13 hrs 17 mins      █████████████████████████   99.66 % 
+Opencode Cli             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Mac                      12 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 56 mins (31.38%)
+⏱ AI Coding Time: 4 hrs 52 mins (36.5%)
 
-✍️ 265 lines written by AI, 19,688 lines written by hand (1.33% AI-written)
+✍️ 265 lines written by AI, 19,761 lines written by hand (1.32% AI-written)
 
-🔤 44,374,973 Input Tokens, 899,508 Output Tokens
+🔤 45,580,923 Input Tokens, 937,347 Output Tokens
 
-💵 $572.44 Estimated AI Cost This Week
+💵 $577.64 Estimated AI Cost This Week
 
-🧠 112 AI Sessions, 159 AI Prompts
+🧠 112 AI Sessions, 176 AI Prompts
 
 Opencode-Cli             265 lines           █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -73,9 +73,9 @@ Sensenova                0 lines             ░░░░░░░░░░░�
 Hermes                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.33% of written lines came from AI
-📝 Concise Prompter — average 182 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+🧑‍💻 Mostly Hands-On — 1.32% of written lines came from AI
+📝 Concise Prompter — average 167 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 98.69% of changed lines were hand-edited
 ```
 
@@ -92,7 +92,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 16:33:41 UTC
+ Last Updated on 28/08/2026 00:25:51 UTC
 <!--END_SECTION:waka-->
 
 <div>
