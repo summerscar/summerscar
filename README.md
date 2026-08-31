@@ -39,44 +39,43 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               4 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   31.79 % 
-Markdown                 1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-YAML                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-JSON                     1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Docker                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+TypeScript               5 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.82 % 
+YAML                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+JSON                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Docker                   1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Bash                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 39 mins      █████████████████████████   99.71 % 
-Opencode Cli             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+VS Code                  13 hrs 31 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs (31.87%)
+⏱ AI Coding Time: 2 hrs 39 mins (19.62%)
 
-✍️ 265 lines written by AI, 45,277 lines written by hand (0.58% AI-written)
+✍️ 0 lines written by AI, 45,356 lines written by hand (0.0% AI-written)
 
-🔤 40,869,184 Input Tokens, 885,082 Output Tokens
+🔤 49,449,242 Input Tokens, 889,748 Output Tokens
 
-💵 $535.29 Estimated AI Cost This Week
+💵 $612.74 Estimated AI Cost This Week
 
-🧠 106 AI Sessions, 170 AI Prompts
+🧠 75 AI Sessions, 125 AI Prompts
 
-Opencode-Cli             265 lines           █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Agnes                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sensenova                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Hermes                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Step                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.58% of written lines came from AI
-📝 Concise Prompter — average 172 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 23 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.42% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +91,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 18:38:29 UTC
+ Last Updated on 31/08/2026 20:51:03 UTC
 <!--END_SECTION:waka-->
 
 <div>
