@@ -31,7 +31,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-423%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-423%20hrs%2038%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -39,38 +39,38 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   36.28 % 
-Markdown                 1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-JSON                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Astro                    49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-JavaScript               46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+TypeScript               3 hrs 29 mins       ██████████████░░░░░░░░░░░   56.54 % 
+Markdown                 54 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Bash                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🔥 Editors: 
-VS Code                  7 hrs               █████████████████████████   100.00 % 
+VS Code                  6 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs               █████████████████████████   100.00 % 
+Mac                      6 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (3.97%)
+⏱ AI Coding Time: 39 mins (10.76%)
 
-✍️ 0 lines written by AI, 26,204 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 632 lines written by hand (0.0% AI-written)
 
-🔤 17,039,891 Input Tokens, 430,700 Output Tokens
+🔤 18,124,640 Input Tokens, 437,323 Output Tokens
 
-💵 $228.90 Estimated AI Cost This Week
+💵 $234.23 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 22 AI Prompts
+🧠 13 AI Sessions, 29 AI Prompts
 
 Agnes                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 32 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 26 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -87,7 +87,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 18:25:55 UTC
+ Last Updated on 05/09/2026 17:21:44 UTC
 <!--END_SECTION:waka-->
 
 <div>
