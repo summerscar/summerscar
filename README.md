@@ -39,37 +39,38 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 36 mins       ██████████████░░░░░░░░░░░   56.11 % 
-Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JSON                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Bash                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+TypeScript               2 hrs 36 mins       ████████████░░░░░░░░░░░░░   47.57 % 
+Markdown                 48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Bash                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+JSON                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 mins (10.33%)
+⏱ AI Coding Time: 31 mins (9.57%)
 
-✍️ 0 lines written by AI, 553 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 298 lines written by hand (0.0% AI-written)
 
-🔤 7,138,557 Input Tokens, 328,902 Output Tokens
+🔤 2,743,832 Input Tokens, 85,951 Output Tokens
 
-💵 $131.74 Estimated AI Cost This Week
+💵 $38.80 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 22 AI Prompts
+🧠 3 AI Sessions, 13 AI Prompts
 
 Agnes                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 25 characters per prompt
+📝 Concise Prompter — average 15 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -87,7 +88,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 18:42:18 UTC
+ Last Updated on 09/09/2026 18:38:43 UTC
 <!--END_SECTION:waka-->
 
 <div>
