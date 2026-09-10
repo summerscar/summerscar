@@ -39,25 +39,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 36 mins       ████████████░░░░░░░░░░░░░   47.57 % 
-Markdown                 48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Bash                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-JSON                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+TypeScript               1 hr 49 mins        ██████████████░░░░░░░░░░░   55.39 % 
+Bash                     40 mins             █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+JSON                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+YAML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Docker                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (9.57%)
+⏱ AI Coding Time: 31 mins (15.86%)
 
-✍️ 0 lines written by AI, 298 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 69 lines written by hand (0.0% AI-written)
 
 🔤 2,743,832 Input Tokens, 85,951 Output Tokens
 
@@ -88,7 +88,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 18:38:43 UTC
+ Last Updated on 10/09/2026 18:30:12 UTC
 <!--END_SECTION:waka-->
 
 <div>
