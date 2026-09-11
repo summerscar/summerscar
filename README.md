@@ -39,40 +39,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 49 mins        ██████████████░░░░░░░░░░░   55.39 % 
-Bash                     40 mins             █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-JSON                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-YAML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Docker                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+TypeScript               29 mins             ████████████░░░░░░░░░░░░░   48.48 % 
+Bash                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      1 hr                █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (15.86%)
-
-✍️ 0 lines written by AI, 69 lines written by hand (0.0% AI-written)
-
-🔤 2,743,832 Input Tokens, 85,951 Output Tokens
-
-💵 $38.80 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 13 AI Prompts
-
-Agnes                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 15 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,7 +71,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 18:30:12 UTC
+ Last Updated on 11/09/2026 18:35:09 UTC
 <!--END_SECTION:waka-->
 
 <div>
