@@ -39,23 +39,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               28 mins             ████████████░░░░░░░░░░░░░   48.10 % 
-Bash                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Bash                     25 mins             ████████░░░░░░░░░░░░░░░░░   32.53 % 
+Markdown                 23 mins             ████████░░░░░░░░░░░░░░░░░   30.46 % 
+TypeScript               15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 18 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      59 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 32 mins (41.38%)
+
+✍️ 1 lines written by AI, 68 lines written by hand (1.45% AI-written)
+
+🔤 761,857 Input Tokens, 58,622 Output Tokens
+
+💵 $7.09 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 18 AI Prompts
+
+Hermes                   1 lines             █████████████████████████   100.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 1.45% of written lines came from AI
+📚 Verbose Prompter — average 1,975 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 98.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,7 +88,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 18:13:17 UTC
+ Last Updated on 14/09/2026 19:51:17 UTC
 <!--END_SECTION:waka-->
 
 <div>
