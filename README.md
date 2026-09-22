@@ -39,40 +39,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               36 mins             ██████████░░░░░░░░░░░░░░░   39.62 % 
-Docker                   34 mins             █████████░░░░░░░░░░░░░░░░   36.97 % 
-JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Makefile                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 33 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (18.72%)
-
-✍️ 0 lines written by AI, 40 lines written by hand (0.0% AI-written)
-
-🔤 1,385,785 Input Tokens, 80,210 Output Tokens
-
-💵 $11.46 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 6 AI Prompts
-
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sensenova                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 32 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,7 +67,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 19:59:53 UTC
+ Last Updated on 22/09/2026 18:56:31 UTC
 <!--END_SECTION:waka-->
 
 <div>
