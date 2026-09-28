@@ -39,13 +39,14 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 mins              ███████████████░░░░░░░░░░   61.29 % 
+JSON                     1 min               ██████████░░░░░░░░░░░░░░░   38.71 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -67,7 +68,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 18:59:26 UTC
+ Last Updated on 28/09/2026 21:14:50 UTC
 <!--END_SECTION:waka-->
 
 <div>
