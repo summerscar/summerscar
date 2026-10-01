@@ -33,6 +33,46 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-424%20hrs%2028%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               11 mins             ████████████████░░░░░░░░░   63.52 % 
+Bash                     4 mins              ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+VS Code                  18 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      18 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 0 secs (0.0%)
+
+✍️ 0 lines written by AI, 10 lines written by hand (0.0% AI-written)
+
+🔤 23,778 Input Tokens, 49 Output Tokens
+
+💵 $0.07 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Sensenova                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 2 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -46,7 +86,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 20:03:17 UTC
+ Last Updated on 01/10/2026 20:21:18 UTC
 <!--END_SECTION:waka-->
 
 <div>
