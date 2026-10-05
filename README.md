@@ -39,15 +39,14 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               11 mins             ████████████████░░░░░░░░░   63.52 % 
-Bash                     4 mins              ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+TypeScript               8 mins              ████████████████░░░░░░░░░   64.20 % 
+Bash                     4 mins              █████████░░░░░░░░░░░░░░░░   35.80 % 
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -69,7 +68,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 18:39:12 UTC
+ Last Updated on 05/10/2026 22:01:55 UTC
 <!--END_SECTION:waka-->
 
 <div>
