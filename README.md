@@ -39,35 +39,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 min               █████████████████████████   100.00 % 
+TypeScript               1 hr 58 mins        ████████████████████░░░░░   78.87 % 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+VS Code                  2 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+Mac                      2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (100.0%)
+⏱ AI Coding Time: 37 mins (25.32%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 46 lines written by AI, 264 lines written by hand (14.84% AI-written)
 
-🔤 31,125 Input Tokens, 3,051 Output Tokens
+🔤 1,696,579 Input Tokens, 43,324 Output Tokens
 
-💵 $0.24 Estimated AI Cost This Week
+💵 $10.64 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 46 AI Sessions, 6 AI Prompts
 
+OMP                      46 lines            █████████████████████████   100.00 % 
 Hermes                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 35 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 14.84% of written lines came from AI
+📝 Concise Prompter — average 56 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🔍 Hands-On Reviewer — 90.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,7 +88,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 19:34:22 UTC
+ Last Updated on 12/10/2026 22:30:11 UTC
 <!--END_SECTION:waka-->
 
 <div>
