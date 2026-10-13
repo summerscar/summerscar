@@ -31,7 +31,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-424%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-425%20hrs%206%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -39,38 +39,37 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 58 mins        ████████████████████░░░░░   78.87 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+TypeScript               1 hr 58 mins        ████████████████████░░░░░   79.82 % 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (25.32%)
+⏱ AI Coding Time: 36 mins (24.42%)
 
 ✍️ 46 lines written by AI, 264 lines written by hand (14.84% AI-written)
 
-🔤 1,696,579 Input Tokens, 43,324 Output Tokens
+🔤 1,665,454 Input Tokens, 40,273 Output Tokens
 
-💵 $10.64 Estimated AI Cost This Week
+💵 $10.41 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 6 AI Prompts
+🧠 44 AI Sessions, 4 AI Prompts
 
 OMP                      46 lines            █████████████████████████   100.00 % 
-Hermes                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 14.84% of written lines came from AI
-📝 Concise Prompter — average 56 characters per prompt
+📝 Concise Prompter — average 67 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 90.34% of changed lines were hand-edited
 ```
@@ -88,7 +87,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 22:30:11 UTC
+ Last Updated on 13/10/2026 20:41:41 UTC
 <!--END_SECTION:waka-->
 
 <div>
