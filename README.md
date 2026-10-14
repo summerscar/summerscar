@@ -39,39 +39,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 58 mins        ████████████████████░░░░░   79.82 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+TypeScript               3 hrs 17 mins       ████████████████████░░░░░   80.25 % 
+Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 57 mins       ████████████████████████░   96.58 % 
+Hermes                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 💻 Operating System: 
-Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (24.42%)
+⏱ AI Coding Time: 46 mins (18.83%)
 
-✍️ 46 lines written by AI, 264 lines written by hand (14.84% AI-written)
+✍️ 46 lines written by AI, 490 lines written by hand (8.58% AI-written)
 
-🔤 1,665,454 Input Tokens, 40,273 Output Tokens
+🔤 1,698,456 Input Tokens, 50,107 Output Tokens
 
-💵 $10.41 Estimated AI Cost This Week
+💵 $11.48 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 4 AI Prompts
+🧠 45 AI Sessions, 7 AI Prompts
 
 OMP                      46 lines            █████████████████████████   100.00 % 
+Hermes                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.84% of written lines came from AI
-📝 Concise Prompter — average 67 characters per prompt
+🧑‍💻 Mostly Hands-On — 8.58% of written lines came from AI
+📝 Concise Prompter — average 55 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 90.34% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 93.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +89,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 20:41:41 UTC
+ Last Updated on 14/10/2026 19:25:43 UTC
 <!--END_SECTION:waka-->
 
 <div>
