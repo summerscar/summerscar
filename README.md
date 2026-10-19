@@ -31,7 +31,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-432%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-432%20hrs%2038%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -39,45 +39,45 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               8 hrs 43 mins       ██████████████████░░░░░░░   71.06 % 
-Markdown                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-JavaScript               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+TypeScript               9 hrs 39 mins       ████████████████░░░░░░░░░   63.52 % 
+Markdown                 1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+JavaScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Other                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 36 mins       ██████████████████░░░░░░░   70.12 % 
-Codex Vscode             3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-Hermes                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+VS Code                  11 hrs 32 mins      ███████████████████░░░░░░   75.89 % 
+Codex Vscode             3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+Hermes                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 💻 Operating System: 
-Mac                      12 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 41 mins (62.71%)
+⏱ AI Coding Time: 7 hrs 56 mins (52.21%)
 
-✍️ 3,050 lines written by AI, 879 lines written by hand (77.63% AI-written)
+✍️ 3,004 lines written by AI, 2,029 lines written by hand (59.69% AI-written)
 
-🔤 3,486,172 Input Tokens, 475,672 Output Tokens
+🔤 1,892,907 Input Tokens, 484,692 Output Tokens
 
-💵 $213.43 Estimated AI Cost This Week
+💵 $206.52 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 52 AI Prompts
+🧠 9 AI Sessions, 58 AI Prompts
 
-GPT                      2,421 lines         ███████████████████░░░░░░   74.75 % 
-Codex-Vscode             772 lines           ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-OMP                      46 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+GPT                      2,421 lines         ███████████████████░░░░░░   75.82 % 
+Codex-Vscode             772 lines           ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
 Hermes                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Hermes-Agent             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.63% of written lines came from AI
-📄 Detailed Prompter — average 635 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 27.34% of changed lines were hand-edited
+⚖️ Balanced with AI — 59.69% of written lines came from AI
+📄 Detailed Prompter — average 590 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 41.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +93,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 18:07:58 UTC
+ Last Updated on 19/10/2026 20:36:06 UTC
 <!--END_SECTION:waka-->
 
 <div>
