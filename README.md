@@ -33,52 +33,6 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-433%20hrs%2024%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               9 hrs 42 mins       ███████████████░░░░░░░░░░   58.87 % 
-Markdown                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-JSON                     1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-JavaScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Other                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 57 mins      ████████████████████░░░░░   78.61 % 
-Codex Vscode             3 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
-
-💻 Operating System: 
-Mac                      16 hrs 29 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 7 mins (49.24%)
-
-✍️ 3,004 lines written by AI, 2,186 lines written by hand (57.88% AI-written)
-
-🔤 2,000,222 Input Tokens, 553,527 Output Tokens
-
-💵 $215.60 Estimated AI Cost This Week
-
-🧠 10 AI Sessions, 58 AI Prompts
-
-GPT                      2,421 lines         ███████████████████░░░░░░   75.82 % 
-Codex-Vscode             772 lines           ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-Vscodium                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Hermes                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Hermes-Agent             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.88% of written lines came from AI
-📄 Detailed Prompter — average 589 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 44.01% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -92,7 +46,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 19:13:52 UTC
+ Last Updated on 23/10/2026 19:16:11 UTC
 <!--END_SECTION:waka-->
 
 <div>
