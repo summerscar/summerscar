@@ -39,44 +39,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               6 hrs 47 mins       ██████████████░░░░░░░░░░░   54.96 % 
-JSON                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Other                    56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+TypeScript               4 hrs 16 mins       ████████████░░░░░░░░░░░░░   48.92 % 
+JSON                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+YAML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 11 mins      █████████████████████████   98.71 % 
-Codex Vscode             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+VS Code                  8 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 29 mins (36.41%)
+⏱ AI Coding Time: 1 hr 11 mins (13.65%)
 
-✍️ 656 lines written by AI, 2,171 lines written by hand (23.2% AI-written)
+✍️ 0 lines written by AI, 1,800 lines written by hand (0.0% AI-written)
 
-🔤 777,917 Input Tokens, 241,201 Output Tokens
+🔤 212,506 Input Tokens, 127,962 Output Tokens
 
-💵 $214.34 Estimated AI Cost This Week
+💵 $13.65 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 43 AI Prompts
+🧠 4 AI Sessions, 13 AI Prompts
 
-Codex-Vscode             772 lines           █████████████████████████   100.00 % 
 Vscodium                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Hermes                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Hermes-Agent             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 23.2% of written lines came from AI
-📝 Concise Prompter — average 371 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 76.31% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 116 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +89,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 18:10:46 UTC
+ Last Updated on 25/10/2026 18:24:46 UTC
 <!--END_SECTION:waka-->
 
 <div>
