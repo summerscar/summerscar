@@ -39,38 +39,35 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   40.92 % 
-JSON                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-YAML                     29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Docker                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Other                    21 mins             █████████████████████████   99.96 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (10.4%)
+⏱ AI Coding Time: 20 mins (99.0%)
 
-✍️ 0 lines written by AI, 386 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
 
-🔤 140,317 Input Tokens, 78,669 Output Tokens
+🔤 77,990 Input Tokens, 32,942 Output Tokens
 
-💵 $10.16 Estimated AI Cost This Week
+💵 $4.19 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
 Vscodium                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 19 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -87,7 +84,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 20:30:33 UTC
+ Last Updated on 27/10/2026 20:06:00 UTC
 <!--END_SECTION:waka-->
 
 <div>
