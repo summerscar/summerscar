@@ -39,36 +39,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    21 mins             █████████████████████████   99.96 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      21 mins             █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (99.0%)
-
-✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
-
-🔤 77,990 Input Tokens, 32,942 Output Tokens
-
-💵 $4.19 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-Vscodium                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 19 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,7 +67,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 20:06:00 UTC
+ Last Updated on 28/10/2026 20:17:13 UTC
 <!--END_SECTION:waka-->
 
 <div>
