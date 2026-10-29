@@ -39,13 +39,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -67,7 +67,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 20:17:13 UTC
+ Last Updated on 29/10/2026 20:19:34 UTC
 <!--END_SECTION:waka-->
 
 <div>
