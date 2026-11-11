@@ -31,22 +31,21 @@
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-433%20hrs%2024%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     12 mins             ███████████████░░░░░░░░░░   60.55 % 
-TypeScript               7 mins              ██████████░░░░░░░░░░░░░░░   39.45 % 
+YAML                     4 mins              █████████████████████░░░░   83.26 % 
+Bash                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.00 % 
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -58,17 +57,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               48 repos            █████████████░░░░░░░░░░░░   52.75 % 
-TypeScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+JavaScript               51 repos            ██████████████░░░░░░░░░░░   54.26 % 
+TypeScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 
 
 
- Last Updated on 01/11/2026 19:42:30 UTC
+ Last Updated on 11/11/2026 11:36:52 UTC
 <!--END_SECTION:waka-->
 
 <div>
