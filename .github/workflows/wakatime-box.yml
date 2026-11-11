@@ -1,3 +1,12 @@
+# WakaTime Dev Metrics -> profile README
+#
+# 认证说明（2026-11-01 起生效）：
+# WakaTime 已把 API Key 改为「仅插件写入（write-only）」，禁止用 ?api_key= 读取 stats 接口，
+# 否则会返回 403: "API Keys are only for plugins, use your personal oauth token instead"。
+# 请到 https://wakatime.com/oauth 生成个人 OAuth access token，
+# 并把它存入仓库 secret WAKATIME_API_KEY（secret 名称不变，只是值换成 OAuth token）。
+# 参考：https://wakatime.com/developers#authentication
+#       https://github.com/anmol098/waka-readme-stats/issues/693
 name: Update gist with WakaTime stats
 
 on:
@@ -5,12 +14,30 @@ on:
   schedule:
     - cron: "15 15 * * *"
 
+permissions:
+  contents: write
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      # 提前校验凭据，避免 secret 缺失时 action 以 403/空值惨败且日志误导
+      - name: Validate required secrets
+        env:
+          WAKATIME_TOKEN: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN_VALUE: ${{ secrets.GH_TOKEN }}
+        run: |
+          if [ -z "$WAKATIME_TOKEN" ]; then
+            echo "::error::secret WAKATIME_API_KEY is missing. Generate a WakaTime OAuth access token at https://wakatime.com/oauth and store it under this name."
+            exit 1
+          fi
+          if [ -z "$GH_TOKEN_VALUE" ]; then
+            echo "::error::secret GH_TOKEN is missing."
+            exit 1
+          fi
+          echo "Required secrets are present."
+
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -19,6 +46,6 @@ jobs:
           SHOW_PROFILE_VIEWS: 'False'
           SHOW_PROJECTS: 'False'
           SHOW_LOC_CHART: 'False'
-          SHOW_COMMIT: 'Flase'
+          SHOW_COMMIT: 'False'
           SHOW_DAYS_OF_WEEK: 'False'
           SHOW_SHORT_INFO: 'False'
