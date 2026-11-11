@@ -39,21 +39,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     4 mins              █████████████████████░░░░   83.26 % 
-Bash                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Other                    47 mins             ███████████████████░░░░░░   75.35 % 
+YAML                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+Unknown Editor           47 mins             ███████████████████░░░░░░   75.35 % 
+VS Code                  15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+Linux                    46 mins             ███████████████████░░░░░░   74.10 % 
+Mac                      16 mins             ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 33 mins (53.84%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 9,605,626 Input Tokens, 211,063 Output Tokens
+
+💵 $34.55 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 23 AI Prompts
+
+Dsh-Wakatime-Plugin      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 7,147 characters per prompt
+🔁 Iterative Prompter — average 23 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -69,7 +88,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/11/2026 11:39:23 UTC
+ Last Updated on 11/11/2026 21:58:49 UTC
 <!--END_SECTION:waka-->
 
 <div>
