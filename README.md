@@ -31,7 +31,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-433%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-444%20hrs%2052%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -39,39 +39,39 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    19 hrs 48 mins      █████████████████████████   98.72 % 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    23 hrs 11 mins      █████████████████████████   98.90 % 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Unknown Editor           19 hrs 48 mins      █████████████████████████   98.72 % 
-VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Unknown Editor           23 hrs 11 mins      █████████████████████████   98.90 % 
+VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 💻 Operating System: 
-Linux                    19 hrs 38 mins      ████████████████████████░   97.89 % 
-Mac                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Linux                    22 hrs 49 mins      ████████████████████████░   97.33 % 
+Mac                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 28 mins (57.16%)
+⏱ AI Coding Time: 13 hrs 30 mins (57.58%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 213,893,574 Input Tokens, 4,089,392 Output Tokens
+🔤 218,035,962 Input Tokens, 4,695,591 Output Tokens
 
-💵 $2646.48 Estimated AI Cost This Week
+💵 $2935.42 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 343 AI Prompts
+🧠 3 AI Sessions, 415 AI Prompts
 
 Dsh-Wakatime-Plugin      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 10,287 characters per prompt
-🔁 Iterative Prompter — average 172 prompts per session
+📚 Verbose Prompter — average 10,960 characters per prompt
+🔁 Iterative Prompter — average 138 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -88,7 +88,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2026 21:50:44 UTC
+ Last Updated on 13/11/2026 21:26:13 UTC
 <!--END_SECTION:waka-->
 
 <div>
