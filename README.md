@@ -31,7 +31,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-444%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-446%20hrs%2054%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -39,56 +39,56 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    23 hrs 11 mins      █████████████████████████   98.90 % 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    35 hrs 15 mins      █████████████████████████   99.48 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Unknown Editor           23 hrs 11 mins      █████████████████████████   98.90 % 
-VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Unknown Editor           35 hrs 15 mins      █████████████████████████   99.48 % 
+VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Linux                    22 hrs 49 mins      ████████████████████████░   97.33 % 
-Mac                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Linux                    34 hrs 53 mins      █████████████████████████   98.42 % 
+Mac                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 30 mins (57.58%)
+⏱ AI Coding Time: 20 hrs 19 mins (57.32%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 218,035,962 Input Tokens, 4,695,591 Output Tokens
+🔤 305,148,236 Input Tokens, 7,085,190 Output Tokens
 
-💵 $2935.42 Estimated AI Cost This Week
+💵 $4276.38 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 415 AI Prompts
+🧠 4 AI Sessions, 677 AI Prompts
 
 Dsh-Wakatime-Plugin      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 10,960 characters per prompt
-🔁 Iterative Prompter — average 138 prompts per session
+📚 Verbose Prompter — average 13,908 characters per prompt
+🔁 Iterative Prompter — average 169 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               51 repos            █████████████░░░░░░░░░░░░   53.68 % 
-TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+JavaScript               51 repos            █████████████░░░░░░░░░░░░   53.12 % 
+TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
 
 
- Last Updated on 13/11/2026 21:26:13 UTC
+ Last Updated on 14/11/2026 19:56:36 UTC
 <!--END_SECTION:waka-->
 
 <div>
