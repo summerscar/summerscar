@@ -31,7 +31,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-453%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-463%20hrs%2059%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -39,56 +39,54 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    53 hrs 2 mins       █████████████████████████   99.65 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    61 hrs 24 mins      █████████████████████████   99.73 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-Unknown Editor           53 hrs 2 mins       █████████████████████████   99.65 % 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Unknown Editor           61 hrs 24 mins      █████████████████████████   99.73 % 
+VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Linux                    52 hrs 39 mins      █████████████████████████   98.95 % 
-Mac                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Linux                    61 hrs 2 mins       █████████████████████████   99.12 % 
+Mac                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 35 mins (57.48%)
+⏱ AI Coding Time: 35 hrs 6 mins (57.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,154,576,137 Input Tokens, 10,501,539 Output Tokens
+🔤 1,419,924,821 Input Tokens, 11,732,579 Output Tokens
 
-💵 $8143.92 Estimated AI Cost This Week
+💵 $10181.99 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 839 AI Prompts
+🧠 6 AI Sessions, 913 AI Prompts
 
 Dsh-Wakatime-Plugin      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 12,193 characters per prompt
-🔁 Iterative Prompter — average 168 prompts per session
+📚 Verbose Prompter — average 11,215 characters per prompt
+🔁 Iterative Prompter — average 152 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               51 repos            █████████████░░░░░░░░░░░░   53.12 % 
-TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+JavaScript               51 repos            █████████████░░░░░░░░░░░░   52.58 % 
+TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 
 
 
 
- Last Updated on 15/11/2026 20:24:20 UTC
+ Last Updated on 16/11/2026 23:44:46 UTC
 <!--END_SECTION:waka-->
 
 <div>
