@@ -31,7 +31,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-476%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-478%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -39,35 +39,35 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    77 hrs 43 mins      █████████████████████████   100.00 % 
+Other                    61 hrs 37 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Unknown Editor           77 hrs 43 mins      █████████████████████████   100.00 % 
+Unknown Editor           61 hrs 37 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    76 hrs 56 mins      █████████████████████████   98.99 % 
-Mac                      46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Linux                    59 hrs 19 mins      ████████████████████████░   96.26 % 
+Mac                      2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 hrs 53 mins (57.76%)
+⏱ AI Coding Time: 36 hrs 21 mins (58.99%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,451,275,703 Input Tokens, 13,496,658 Output Tokens
+🔤 1,248,796,239 Input Tokens, 9,762,353 Output Tokens
 
-💵 $11933.14 Estimated AI Cost This Week
+💵 $9422.63 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 1062 AI Prompts
+🧠 7 AI Sessions, 822 AI Prompts
 
 Dsh-Wakatime-Plugin      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 9,598 characters per prompt
-🔁 Iterative Prompter — average 152 prompts per session
+📚 Verbose Prompter — average 8,656 characters per prompt
+🔁 Iterative Prompter — average 117 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -84,7 +84,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2026 22:35:57 UTC
+ Last Updated on 19/11/2026 22:40:13 UTC
 <!--END_SECTION:waka-->
 
 <div>
