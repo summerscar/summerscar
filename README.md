@@ -31,7 +31,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-478%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-481%20hrs%2013%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -39,35 +39,35 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    61 hrs 37 mins      █████████████████████████   100.00 % 
+Other                    58 hrs 15 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Unknown Editor           61 hrs 37 mins      █████████████████████████   100.00 % 
+Unknown Editor           58 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    59 hrs 19 mins      ████████████████████████░   96.26 % 
-Mac                      2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Linux                    56 hrs 9 mins       ████████████████████████░   96.39 % 
+Mac                      2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 21 mins (58.99%)
+⏱ AI Coding Time: 34 hrs 19 mins (58.92%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,248,796,239 Input Tokens, 9,762,353 Output Tokens
+🔤 1,244,653,851 Input Tokens, 9,156,154 Output Tokens
 
-💵 $9422.63 Estimated AI Cost This Week
+💵 $9133.69 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 822 AI Prompts
+🧠 6 AI Sessions, 750 AI Prompts
 
 Dsh-Wakatime-Plugin      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 8,656 characters per prompt
-🔁 Iterative Prompter — average 117 prompts per session
+📚 Verbose Prompter — average 8,127 characters per prompt
+🔁 Iterative Prompter — average 125 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -84,7 +84,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2026 22:40:13 UTC
+ Last Updated on 20/11/2026 22:14:48 UTC
 <!--END_SECTION:waka-->
 
 <div>
