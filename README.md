@@ -39,35 +39,35 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    58 hrs 15 mins      █████████████████████████   100.00 % 
+Other                    46 hrs 10 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Unknown Editor           58 hrs 15 mins      █████████████████████████   100.00 % 
+Unknown Editor           46 hrs 10 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    56 hrs 9 mins       ████████████████████████░   96.39 % 
-Mac                      2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Linux                    44 hrs 4 mins       ████████████████████████░   95.46 % 
+Mac                      2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 19 mins (58.92%)
+⏱ AI Coding Time: 27 hrs 30 mins (59.57%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,244,653,851 Input Tokens, 9,156,154 Output Tokens
+🔤 1,157,541,577 Input Tokens, 6,766,555 Output Tokens
 
-💵 $9133.69 Estimated AI Cost This Week
+💵 $7794.81 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 750 AI Prompts
+🧠 5 AI Sessions, 488 AI Prompts
 
 Dsh-Wakatime-Plugin      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 8,127 characters per prompt
-🔁 Iterative Prompter — average 125 prompts per session
+📚 Verbose Prompter — average 2,516 characters per prompt
+🔁 Iterative Prompter — average 98 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -84,7 +84,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2026 22:14:48 UTC
+ Last Updated on 21/11/2026 20:54:38 UTC
 <!--END_SECTION:waka-->
 
 <div>
