@@ -39,52 +39,52 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    28 hrs 24 mins      █████████████████████████   100.00 % 
+Other                    20 hrs 1 min        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Unknown Editor           28 hrs 24 mins      █████████████████████████   100.00 % 
+Unknown Editor           20 hrs 1 min        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    26 hrs 18 mins      ███████████████████████░░   92.62 % 
-Mac                      2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Linux                    17 hrs 55 mins      ██████████████████████░░░   89.53 % 
+Mac                      2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 14 mins (60.67%)
+⏱ AI Coding Time: 12 hrs 43 mins (63.54%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 308,113,676 Input Tokens, 3,350,206 Output Tokens
+🔤 42,764,992 Input Tokens, 2,119,166 Output Tokens
 
-💵 $3930.07 Estimated AI Cost This Week
+💵 $1892.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 326 AI Prompts
+🧠 3 AI Sessions, 252 AI Prompts
 
 Dsh-Wakatime-Plugin      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 1,269 characters per prompt
-🔁 Iterative Prompter — average 82 prompts per session
+📚 Verbose Prompter — average 1,604 characters per prompt
+🔁 Iterative Prompter — average 84 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               51 repos            █████████████░░░░░░░░░░░░   52.58 % 
-TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+JavaScript               51 repos            █████████████░░░░░░░░░░░░   52.04 % 
+TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
 
 
- Last Updated on 22/11/2026 21:04:33 UTC
+ Last Updated on 24/11/2026 02:13:34 UTC
 <!--END_SECTION:waka-->
 
 <div>
