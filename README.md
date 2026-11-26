@@ -39,52 +39,53 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 56 mins       █████████████████████████   100.00 % 
+Other                    6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Unknown Editor           2 hrs 56 mins       █████████████████████████   100.00 % 
+Unknown Editor           5 mins              ███████████████████░░░░░░   77.19 % 
+OpenCode                 1 min               ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
 
 💻 Operating System: 
-Mac                      1 hr 40 mins        ██████████████░░░░░░░░░░░   57.08 % 
-Linux                    1 hr 15 mins        ███████████░░░░░░░░░░░░░░   42.92 % 
+Linux                    5 mins              ███████████████████░░░░░░   77.19 % 
+Mac                      1 min               ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 22 mins (80.88%)
+⏱ AI Coding Time: 6 mins (89.43%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,808,484 Input Tokens, 144,024 Output Tokens
+🔤 78,903 Input Tokens, 5,387 Output Tokens
 
-💵 $106.94 Estimated AI Cost This Week
+💵 $9.25 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 80 AI Prompts
+🧠 2 AI Sessions, 10 AI Prompts
 
 Dsh-Wakatime-Plugin      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 3,570 characters per prompt
-🔁 Iterative Prompter — average 80 prompts per session
+📚 Verbose Prompter — average 6,435 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               52 repos            █████████████░░░░░░░░░░░░   52.53 % 
-TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+JavaScript               53 repos            █████████████░░░░░░░░░░░░   53.00 % 
+TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Java                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
 
 
- Last Updated on 25/11/2026 23:39:00 UTC
+ Last Updated on 26/11/2026 23:52:16 UTC
 <!--END_SECTION:waka-->
 
 <div>
